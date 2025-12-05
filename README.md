@@ -10,3 +10,4 @@ Trying out Advent of Code, and possibly learning some languages alongside.
 | 2   | \*     | \*     | Python, Java |
 | 3   | \*     | \*     | C, Golang    |
 | 4   | \*     | \*     | C            |
+|5    |\*      | \*     | Java         |
